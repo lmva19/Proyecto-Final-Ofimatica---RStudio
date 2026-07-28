@@ -64,19 +64,71 @@ Las principales transformaciones realizadas fueron:
 
 # 3. Estadísticas descriptivas
 
-Se realizaron estadísticas descriptivas para conocer las principales características de la población analizada.
+Luego del proceso de limpieza y preparación de datos, la base final quedó conformada por **84 784 observaciones** y **14 variables**, correspondientes a la población de 14 años a más incluida en la ENAHO 2025.
 
-Se evaluaron:
+Se realizaron estadísticas descriptivas sobre las principales variables demográficas, educativas y laborales.
 
-- Distribución porcentual por sexo.
-- Distribución de ocupados y no ocupados.
-- Diferencias entre áreas urbanas y rurales.
-- Estadísticos descriptivos de edad.
-- Distribución de años de estudio aprobados.
+## Características demográficas
+
+Respecto al sexo de la población analizada, se observa una distribución relativamente equilibrada:
+
+- El **52.41% corresponde a mujeres** (44 434 observaciones).
+- El **47.59% corresponde a hombres** (40 350 observaciones).
+
+Esto muestra una ligera mayor participación femenina dentro de la población en edad de trabajar considerada en la muestra.
 
 
-Los resultados permiten observar la composición demográfica, educativa y laboral de la población peruana analizada.
+## Condición laboral
 
+En relación con la situación ocupacional:
+
+- El **68.05% de la población se encuentra ocupada** (57 695 personas).
+- El **31.95% corresponde a población no ocupada** (27 089 personas).
+
+Estos resultados muestran que aproximadamente dos tercios de la población analizada participan activamente en el mercado laboral.
+
+
+## Área de residencia
+
+Según el área geográfica:
+
+- El **68.10% reside en zonas urbanas** (57 735 personas).
+- El **31.90% pertenece al área rural** (27 049 personas).
+
+La distribución evidencia una mayor concentración de la población en zonas urbanas, característica consistente con la estructura demográfica del Perú.
+
+
+## Distribución de edad
+
+La edad promedio de la población analizada fue de **43.58 años**, con una desviación estándar de **19.84 años**.
+
+Los principales estadísticos fueron:
+
+- Edad mínima: **14 años**.
+- Primer cuartil: **26 años**.
+- Mediana: **42 años**.
+- Tercer cuartil: **59 años**.
+- Edad máxima: **98 años**.
+
+La mediana indica que la mitad de la población tiene 42 años o menos, mientras que existe una amplia dispersión debido a la inclusión de personas adultas mayores dentro del análisis.
+
+
+## Años de estudio aprobados
+
+La variable educativa muestra que los años promedio de estudio aprobados fueron de **8.86 años**, con una desviación estándar de **5.33 años**.
+
+Los principales resultados fueron:
+
+- Valor mínimo: **0 años de estudio**.
+- Primer cuartil: **5 años**.
+- Mediana: **11 años**.
+- Tercer cuartil: **13 años**.
+- Valor máximo: **18 años**.
+
+La mediana de 11 años indica que una proporción importante de la población alcanza aproximadamente niveles cercanos a la educación secundaria completa, aunque existen diferencias importantes entre individuos.
+
+
+En conjunto, las estadísticas descriptivas muestran una población predominantemente urbana, con una participación laboral mayoritaria y con diferencias relevantes en los niveles educativos alcanzados. Estos resultados permiten establecer una base inicial para analizar posteriormente las relaciones entre educación, empleo y características territoriales.
 
 ---
 
