@@ -230,6 +230,20 @@ Los resultados muestran que la tasa de ocupación varía considerablemente entre
 
 Asimismo, la relación entre educación y ocupación debe interpretarse considerando las características estructurales de cada región, debido a que un mayor nivel educativo no necesariamente se traduce inmediatamente en mayores tasas de ocupación.
 
+---
+
+# Anexo: Difusión del análisis en redes sociales
+
+Como parte de la presentación de resultados, se elaboró una publicación de divulgación basada en los principales hallazgos obtenidos en el análisis final.
+
+La publicación resume la relación entre la educación y el mercado laboral departamental en el Perú utilizando información de la ENAHO 2025, destacando las diferencias territoriales en la tasa de ocupación y la importancia de considerar la estructura económica regional al interpretar los resultados.
+
+El contenido fue adaptado para un formato de comunicación científica dirigido a un público general, manteniendo los principales resultados estadísticos del estudio.
+
+## Publicación en LinkedIn/X
+
+![Captura de publicación en redes sociales](figures/Captura_linkedin.png)
+
 En conjunto, los resultados resaltan la importancia de analizar el mercado laboral peruano considerando tanto factores educativos como diferencias territoriales.
 
 
