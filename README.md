@@ -234,5 +234,3 @@ En conjunto, los resultados resaltan la importancia de analizar el mercado labor
 
 
 ---
-
-# Estructura del proyecto
