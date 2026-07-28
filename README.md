@@ -244,7 +244,5 @@ El contenido fue adaptado para un formato de comunicación científica dirigido 
 
 ![Captura de publicación en redes sociales](figures/Captura_linkedin.png)
 
-En conjunto, los resultados resaltan la importancia de analizar el mercado laboral peruano considerando tanto factores educativos como diferencias territoriales.
-
 
 ---
