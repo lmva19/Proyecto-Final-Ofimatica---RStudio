@@ -2,6 +2,10 @@
 
 ## Mercado laboral y educación en el Perú: ENAHO 2025
 
+**Autor:** Veliz Arce Luis Martin
+
+---
+
 Este proyecto desarrolla un análisis exploratorio de datos (EDA) y un análisis complementario utilizando información de la Encuesta Nacional de Hogares (ENAHO) 2025 elaborada por el Instituto Nacional de Estadística e Informática (INEI) del Perú.
 
 El objetivo principal es analizar las características educativas y laborales de la población peruana en edad de trabajar, identificando diferencias según características demográficas, territoriales y educativas.
